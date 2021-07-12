@@ -1,0 +1,17 @@
+{
+  "name": "turek/drush-file-permissions",
+  "type": "drupal-drush",
+  "description": "Drush command for maintaining correct file permissions inside Drupal.",
+  "require": {
+    "php": ">=7",
+    "composer/installers": "~1.0"
+  },
+  "license": "GPL-2.0+",
+  "authors": [{
+    "name": "Tomasz Turczynski",
+    "email": "tomasz@turczynski.com"
+  }],
+  "keywords": ["drush","database"],
+  "homepage": "https://github.com/Turek/drush-file-permissions"
+}
+
